@@ -17,7 +17,7 @@
 - Organização dos endpoints de acordo com as entidades ou recursos manipulados.
 - Padronização da nomenclatura dos endpoints seguindo um padrão claro e consistente.
 - Utilização do framework Server-Side Next para permitir chamadas server-side, facilitando a construção da página.
-- Utilização do Bootstrap na versão 5 para estilização, devido à falta de habilidades em CSS.
+- Utilização do Bootstrap na versão 5 para estilização.
 - Front-end simples, com uma página contendo um componente de container para todas as chamadas para a API, e outros componentes sem lógica específica.
 
 
