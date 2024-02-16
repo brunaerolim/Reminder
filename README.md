@@ -27,5 +27,12 @@
 - Utilizei também Bootstrap para agilizar o desenvolvimento do front-end, buscando uma implementação rápida.
 
 ## Como executar
-Troubleshooting: 
 - Colocar em HTTP.
+- Rodar API utilizando Visual Studio com suporte a `.NET CORE 8`
+- Necessário `Node` e `NPM` nas suas versões atualizadas
+- Utilizar `npm install` para instalar dependências dentro da pasta `remainder-app`
+- Utilizar `npm run dev` para iniciar a aplicação
+
+## Screenshot
+![image](https://github.com/brunaerolim/Teste-DTI/assets/89048890/a92c249c-3301-4c25-8550-23a624208cc8)
+
