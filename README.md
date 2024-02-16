@@ -30,7 +30,7 @@
 - Colocar em HTTP.
 - Rodar API utilizando Visual Studio com suporte a `.NET CORE 8`
 - Necessário `Node` e `NPM` nas suas versões atualizadas
-- Utilizar `npm install` para instalar dependências dentro da pasta `remainder-app`
+- Utilizar `npm install` para instalar dependências dentro da pasta `reminder-app`
 - Utilizar `npm run dev` para iniciar a aplicação
 
 ## Screenshot
